@@ -11,3 +11,4 @@ class MainScpider(scrapy.Spider):
       yield {
         'text': text
       }
+      
